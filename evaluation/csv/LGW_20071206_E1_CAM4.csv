@@ -1,0 +1,4 @@
+"ID","EventType","Framespan","DetectionScore","DetectionDecision"
+"1","Embrace","11065:11265","0.260364","0"
+"2","Embrace","37065:37165","0.139500","0"
+"1","CellToEar","40855:40925","0.090500","0"
