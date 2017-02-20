@@ -7,7 +7,7 @@
 * Pipline file
 * prepare_csv(): Generate csv file to ./csv/\*.csv from result_{class}.txt
 * xml_script(): Generate xml file to ./xml/\*.xml from ./csv/\*.csv
-* exp_control(): Run experiment defined in queue\[i\] (define test videos), save results to result/dirnames[i]/
+* exp_control(): Run experiment defined in queue\[i\] (define test videos), save results to result/dirnames\[i\]/
 * If you have csv file or xml file, comment corresponding functions
 
 
