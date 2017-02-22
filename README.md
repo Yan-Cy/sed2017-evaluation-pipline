@@ -20,3 +20,12 @@
 * dettemplate: results file template. 
 * threshold: threshold for detection score, used in post process.
 
+## Author
+
+> Chen Yang
+
+> chenyang_1995@qq.com
+
+> Github: Yan-Cy
+
+> Feb 22, 2017
